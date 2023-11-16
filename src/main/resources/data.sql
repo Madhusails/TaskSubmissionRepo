@@ -1,0 +1,1 @@
+insert into PERSON(ID,FIRST_NAME,LAST_NAME) VALUES(101,'John','Swat')
